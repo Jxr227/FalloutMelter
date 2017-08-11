@@ -1,0 +1,16 @@
+@()
+
+<h1>Edit your player save</h1>
+
+
+<h2>Upload</h2>
+
+@helper.form(action = routes.SaveEditorController.submitPlayerFile(), 'enctype -> "multipart/form-data") {
+
+    <input type="file" name="playerSave">
+
+    <p>
+        <input type="submit">
+    </p>
+
+}

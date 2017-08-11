@@ -1,0 +1,5468 @@
+{
+  "items": [
+    {
+      "id": "GatlingLaser",
+      "type": "Weapon",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FarHarborSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GatlingLaser_Vengeance",
+      "type": "Weapon",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "lykoi_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Calypso",
+        "bonus": "DamageBoost",
+        "bonusValue": 6.00
+      }
+    },
+    {
+      "id": "scarletmacaw_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Wanderer",
+        "bonus": "Resistance",
+        "bonusValue": 50.00
+      }
+    },
+    {
+      "id": "blueyellowmacaw_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Pip",
+        "bonus": "ObjectiveMultiplier",
+        "bonusValue": 3.00
+      }
+    },
+    {
+      "id": "rottweiler_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Rottweiler",
+        "bonus": "AddMaxHP",
+        "bonusValue": 33.00
+      }
+    },
+    {
+      "id": "turkishvan_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Duchess",
+        "bonus": "ChildSpecialBoost",
+        "bonusValue": 3.00
+      }
+    },
+    {
+      "id": "lykoi_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Oliver",
+        "bonus": "DamageBoost",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "militarymacaw_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Sammy",
+        "bonus": "DamageBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "militarymacaw_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Sunshine",
+        "bonus": "DamageBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "militarymacaw_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Jet",
+        "bonus": "DamageBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "goldenret_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Licorice",
+        "bonus": "WastelandItemBoost",
+        "bonusValue": 18.00
+      }
+    },
+    {
+      "id": "ocicat_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Ocicat",
+        "bonus": "WastelandItemBoost",
+        "bonusValue": 6.00
+      }
+    },
+    {
+      "id": "toyger_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Tiger",
+        "bonus": "MysteriousMagnet",
+        "bonusValue": 5.00
+      }
+    },
+    {
+      "id": "pallascat_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Coco",
+        "bonus": "WastelandJunkBoost",
+        "bonusValue": 65.00
+      }
+    },
+    {
+      "id": "pallascat_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Smokey",
+        "bonus": "WastelandJunkBoost",
+        "bonusValue": 59.00
+      }
+    },
+    {
+      "id": "cattledog_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Four Score",
+        "bonus": "WastelandCapsBoost",
+        "bonusValue": 44.00
+      }
+    },
+    {
+      "id": "cattledog_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Doug",
+        "bonus": "WastelandCapsBoost",
+        "bonusValue": 21.00
+      }
+    },
+    {
+      "id": "englishmastiff_r2",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Tucker",
+        "bonus": "CheaperCrafting",
+        "bonusValue": 7.00
+      }
+    },
+    {
+      "id": "stbernard_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "St. Bernard",
+        "bonus": "WastelandJunkBoost",
+        "bonusValue": 29.00
+      }
+    },
+    {
+      "id": "collie_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Collie",
+        "bonus": "CheaperCrafting",
+        "bonusValue": 7.00
+      }
+    },
+    {
+      "id": "englishmastiff_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Muffin",
+        "bonus": "CheaperCrafting",
+        "bonusValue": 16.00
+      }
+    },
+    {
+      "id": "persian_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Persian",
+        "bonus": "HappinessBoost",
+        "bonusValue": 25.00
+      }
+    },
+    {
+      "id": "persian_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Persian",
+        "bonus": "HappinessBoost",
+        "bonusValue": 26.00
+      }
+    },
+    {
+      "id": "blacklab_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Black Lab",
+        "bonus": "TrainingBoost",
+        "bonusValue": 6.00
+      }
+    },
+    {
+      "id": "blacklab_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Black Lab",
+        "bonus": "TrainingBoost",
+        "bonusValue": 6.00
+      }
+    },
+    {
+      "id": "scottishfold_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Peanut",
+        "bonus": "XPBoost",
+        "bonusValue": 28.00
+      }
+    },
+    {
+      "id": "scottishfold_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Pekoe",
+        "bonus": "XPBoost",
+        "bonusValue": 28.00
+      }
+    },
+    {
+      "id": "british_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "British Shorthair",
+        "bonus": "HealingBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "ocicat_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Misty",
+        "bonus": "WastelandItemBoost",
+        "bonusValue": 16.00
+      }
+    },
+    {
+      "id": "ocicat_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Lis",
+        "bonus": "WastelandItemBoost",
+        "bonusValue": 20.00
+      }
+    },
+    {
+      "id": "american_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "American Shorthair",
+        "bonus": "WastelandCapsBoost",
+        "bonusValue": 13.00
+      }
+    },
+    {
+      "id": "somali_r2",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Croquette",
+        "bonus": "FasterCrafting",
+        "bonusValue": 8.00
+      }
+    },
+    {
+      "id": "scarletmacaw_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Pirate Parrot",
+        "bonus": "Resistance",
+        "bonusValue": 23.00
+      }
+    },
+    {
+      "id": "scarletmacaw_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Pirate Parrot",
+        "bonus": "Resistance",
+        "bonusValue": 21.00
+      }
+    },
+    {
+      "id": "scarletmacaw_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Pirate Parrot",
+        "bonus": "Resistance",
+        "bonusValue": 21.00
+      }
+    },
+    {
+      "id": "abyssinian_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Abyssinian",
+        "bonus": "Resistance",
+        "bonusValue": 22.00
+      }
+    },
+    {
+      "id": "abyssinian_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Abyssinian",
+        "bonus": "Resistance",
+        "bonusValue": 21.00
+      }
+    },
+    {
+      "id": "abyssinian_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Abyssinian",
+        "bonus": "Resistance",
+        "bonusValue": 20.00
+      }
+    },
+    {
+      "id": "abyssinian_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Abyssinian",
+        "bonus": "Resistance",
+        "bonusValue": 24.00
+      }
+    },
+    {
+      "id": "abyssinian_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Abyssinian",
+        "bonus": "Resistance",
+        "bonusValue": 23.00
+      }
+    },
+    {
+      "id": "toyger_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Toyger",
+        "bonus": "MysteriousMagnet",
+        "bonusValue": 2.50
+      }
+    },
+    {
+      "id": "toyger_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Toyger",
+        "bonus": "MysteriousMagnet",
+        "bonusValue": 2.50
+      }
+    },
+    {
+      "id": "boxer_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Scavver",
+        "bonus": "XPBoost",
+        "bonusValue": 43.00
+      }
+    },
+    {
+      "id": "boxer_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Scavver",
+        "bonus": "XPBoost",
+        "bonusValue": 36.00
+      }
+    },
+    {
+      "id": "american_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Charlie",
+        "bonus": "WastelandCapsBoost",
+        "bonusValue": 28.00
+      }
+    },
+    {
+      "id": "bombay_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Felix",
+        "bonus": "AddMaxHP",
+        "bonusValue": 65.00
+      }
+    },
+    {
+      "id": "doberman_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Chester",
+        "bonus": "HealingBoost",
+        "bonusValue": 3.00
+      }
+    },
+    {
+      "id": "doberman_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Coco",
+        "bonus": "HealingBoost",
+        "bonusValue": 3.00
+      }
+    },
+    {
+      "id": "akita_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Muffin",
+        "bonus": "MysteriousMagnet",
+        "bonusValue": 2.50
+      }
+    },
+    {
+      "id": "husky_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Trench",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "husky_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Trench",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "husky_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Trench",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "husky_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Trench",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "husky_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Trench",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "husky_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Trench",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "husky_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Trench",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "husky_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Trench",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "cattledog_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Cattle Dog",
+        "bonus": "WastelandCapsBoost",
+        "bonusValue": 9.00
+      }
+    },
+    {
+      "id": "australianshepherd_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Buster",
+        "bonus": "ChildSpecialBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "australianshepherd_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Lola",
+        "bonus": "ChildSpecialBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "australianshepherd_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Rosie",
+        "bonus": "ChildSpecialBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "australianshepherd_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Sophie",
+        "bonus": "ChildSpecialBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "havanabrown_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Merlin",
+        "bonus": "FasterCrafting",
+        "bonusValue": 37.00
+      }
+    },
+    {
+      "id": "pallascat_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Pallas's Cat",
+        "bonus": "WastelandJunkBoost",
+        "bonusValue": 26.00
+      }
+    },
+    {
+      "id": "pallascat_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Pallas's Cat",
+        "bonus": "WastelandJunkBoost",
+        "bonusValue": 32.00
+      }
+    },
+    {
+      "id": "germanpointer_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "German Pointer",
+        "bonus": "RadHealingBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "germanpointer_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "German Pointer",
+        "bonus": "RadHealingBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "germanpointer_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "German Pointer",
+        "bonus": "RadHealingBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "blueyellowmacaw_l2",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Vinnie",
+        "bonus": "ObjectiveMultiplier",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "blueyellowmacaw_l2",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Vinnie",
+        "bonus": "ObjectiveMultiplier",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "blueyellowmacaw_l2",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Vinnie",
+        "bonus": "ObjectiveMultiplier",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "siamese_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Siamese",
+        "bonus": "RadHealingBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "siamese_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Siamese",
+        "bonus": "RadHealingBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "siamese_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Siamese",
+        "bonus": "RadHealingBoost",
+        "bonusValue": 2.00
+      }
+    },
+    {
+      "id": "turkishvan_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Pugsley",
+        "bonus": "ChildSpecialBoost",
+        "bonusValue": 1.00
+      }
+    },
+    {
+      "id": "turkishvan_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Misty",
+        "bonus": "ChildSpecialBoost",
+        "bonusValue": 1.00
+      }
+    },
+    {
+      "id": "bombay_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bombay",
+        "bonus": "AddMaxHP",
+        "bonusValue": 33.00
+      }
+    },
+    {
+      "id": "bombay_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bombay",
+        "bonus": "AddMaxHP",
+        "bonusValue": 30.00
+      }
+    },
+    {
+      "id": "british_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Missy",
+        "bonus": "HealingBoost",
+        "bonusValue": 3.00
+      }
+    },
+    {
+      "id": "british_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Scratch",
+        "bonus": "HealingBoost",
+        "bonusValue": 3.00
+      }
+    },
+    {
+      "id": "scarletmacaw_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Pepper",
+        "bonus": "Resistance",
+        "bonusValue": 37.00
+      }
+    },
+    {
+      "id": "scarletmacaw_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Crystal",
+        "bonus": "Resistance",
+        "bonusValue": 37.00
+      }
+    },
+    {
+      "id": "scarletmacaw_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Paulie",
+        "bonus": "Resistance",
+        "bonusValue": 39.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "sphynx_l",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Bastet",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 4.00
+      }
+    },
+    {
+      "id": "husky_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Husky",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 1.25
+      }
+    },
+    {
+      "id": "husky_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Husky",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 1.25
+      }
+    },
+    {
+      "id": "husky_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Husky",
+        "bonus": "FasterWastelandReturnSpeed",
+        "bonusValue": 1.25
+      }
+    },
+    {
+      "id": "GoldWatch",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GoldWatch",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "YaoGuaiHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "YaoGuaiHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "YaoGuaiHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "YaoGuaiHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AlarmClock",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ChemistrySet",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ChemistrySet",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ChemistrySet",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ChemistrySet",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ChemistrySet",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TriFoldFlag",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TriFoldFlag",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TriFoldFlag",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TriFoldFlag",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TriFoldFlag",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TriFoldFlag",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TriFoldFlag",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TriFoldFlag",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MagnifyingGlass",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryDuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryDuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryDuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryDuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryDuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryDuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryDuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BaseballGlove",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BrahminHide",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Camera",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Microscope",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DeskFan",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryCircuitBoard",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryCircuitBoard",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GiddyupButtercup",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GiddyupButtercup",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Wonderglue",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Globe",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Shovel",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "TeddyBear",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "DuctTape",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ToyCar",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "Yarn",
+      "type": "Junk",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EulogyJonesSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PowerArmor_MkVI",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KnightSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KnightSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KnightSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KnightSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KnightSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KnightSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GreaserSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GreaserSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GreaserSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GreaserSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GreaserSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GreaserSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "GreaserSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PowerArmor_T60f",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ComedianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ComedianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ComedianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ComedianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ComedianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ComedianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ComedianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ComedianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ComedianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "dalmatian_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Buster",
+        "bonus": "ChildMultiplier",
+        "bonusValue": 25.00
+      }
+    },
+    {
+      "id": "dalmatian_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Hercules",
+        "bonus": "ChildMultiplier",
+        "bonusValue": 25.00
+      }
+    },
+    {
+      "id": "dalmatian_r",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Rosie",
+        "bonus": "ChildMultiplier",
+        "bonusValue": 25.00
+      }
+    },
+    {
+      "id": "BusinessDress",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ArgyleSweater",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BusinessSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear_Fancy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear_Fancy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear_Fancy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear_Fancy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear_Fancy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear_Fancy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear_Fancy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear_Fancy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear_Fancy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SportsfanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SportsfanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SportsfanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SportsfanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SportsfanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SportsfanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SportsfanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SportsfanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SportsfanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SoldierSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SoldierSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SoldierSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SoldierSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SoldierSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SoldierSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SoldierSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SoldierSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SoldierSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurgeonSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurgeonSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurgeonSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurgeonSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SurvivorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RaiderArmor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HandymanJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScientistScrubs",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScientistScrubs",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Settler",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Settler",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Settler",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BishopSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BishopSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BishopSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BishopSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SlasherSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SlasherSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SlasherSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SlasherSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SlasherSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SlasherSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "CombatArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LabCoat_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LabCoat_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LabCoat_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LabCoat_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LabCoat_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LabCoat_Advanced",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware_Naughty",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware_Naughty",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware_Naughty",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware_Naughty",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware_Naughty",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware_Naughty",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware_Naughty",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware_Naughty",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BattleArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BattleArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "BattleArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScientistScrubs_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScientistScrubs_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScientistScrubs_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScientistScrubs_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScientistScrubs_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RaiderArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RaiderArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RaiderArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RaiderArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RaiderArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RaiderArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MoviefanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MoviefanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MoviefanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MoviefanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MoviefanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MoviefanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MoviefanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MoviefanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MoviefanSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EngineerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EngineerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EngineerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EngineerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EngineerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "brittany_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Brittany",
+        "bonus": "FasterAndCheaperCrafting",
+        "bonusValue": 6.00
+      }
+    },
+    {
+      "id": "brittany_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Brittany",
+        "bonus": "FasterAndCheaperCrafting",
+        "bonusValue": 9.00
+      }
+    },
+    {
+      "id": "brittany_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Brittany",
+        "bonus": "FasterAndCheaperCrafting",
+        "bonusValue": 7.00
+      }
+    },
+    {
+      "id": "brittany_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Brittany",
+        "bonus": "FasterAndCheaperCrafting",
+        "bonusValue": 7.00
+      }
+    },
+    {
+      "id": "brittany_c",
+      "type": "Pet",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false,
+      "extraData": {
+        "uniqueName": "Brittany",
+        "bonus": "FasterAndCheaperCrafting",
+        "bonusValue": 9.00
+      }
+    },
+    {
+      "id": "PowerArmor_51f",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PowerArmor_51f",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PowerArmor_51f",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PowerArmor_51f",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LibrarianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LibrarianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LibrarianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LibrarianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LibrarianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LibrarianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LibrarianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LibrarianSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "RiotGear",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "NinjaSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit_Officer",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PrinceSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PrinceSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PrinceSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PrinceSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PrinceSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PrinceSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PrinceSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WandererArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WandererArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WandererArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WandererArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WandererArmor_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MayorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MayorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MayorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MayorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MayorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MayorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MayorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MayorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LabCoat",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LabCoat",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "LabCoat",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ProfessorSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "KingSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "UtilityJumpsuit_Sturdy",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "FormalWear",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WastelandSurgeon_Doctor",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WaitressUniform",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WaitressUniform",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "SwingDress",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "AllNightware",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "HazmatSuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScribeRobe_Initiate",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "WrestlerSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScifiSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScifiSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScifiSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScifiSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScifiSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScifiSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScifiSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "ScifiSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "MilitaryJumpsuit",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "PowerArmor_51d",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    },
+    {
+      "id": "EmpressSpecial",
+      "type": "Outfit",
+      "hasBeenAssigned": false,
+      "hasRandonWeaponBeenAssigned": false
+    }
+  ]
+}
